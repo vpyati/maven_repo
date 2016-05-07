@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.vikram.openidconnect</groupId>
+  <artifactId>login-core</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160507092743</lastUpdated>
+  </versioning>
+</metadata>
